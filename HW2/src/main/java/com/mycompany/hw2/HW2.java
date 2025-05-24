@@ -22,7 +22,7 @@ public class HW2 extends JFrame {
      */
     public HW2() {
         // Set window properties
-        setTitle("MotorPH Employee App - GUI Version");
+        setTitle("MotorPH Employee App");
         setSize(800, 500);
         setLocationRelativeTo(null); // Center the window on screen
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
